@@ -1,0 +1,22 @@
+{
+    "error": [],
+    "result" : {
+        "trades" : {
+            "THVRQM-33VKH-UCI7BS": {
+                "ordertxid": "OQCLML-BW3P3-BUCMWZ",
+                "postxid": "TKH2SE-M7IFS-CFI7LT",
+                "pair":"XETHZUSD",
+                "time": 1616667796.8802,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "1616.9800",
+                "cost": "80.8500",
+                "fee": "0.0000",
+                "vol": "0.0500",
+                "margin": "0.0000",
+                "misc": ""
+            }   
+        },
+        "count": 1
+    }
+}
